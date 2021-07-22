@@ -1,0 +1,25 @@
+{
+    "home": {
+        "welcome" : "Welcome To ",
+        "welcome_1" : "Jin's Portfolio",    
+        "description" : "My name is Jin, The purpose of this web-site is to support you understand my career."
+    
+    },
+
+    "technologies": {
+        "sectionText" : "I've worked with a range a technologies in the web development world. From Back-end to Front-end",    
+        "listTitle" : "Front-end",
+        "listTitle_1" : "Back-end",
+        "listTitle_2" : "Open Sources",
+        "ListParagraph" : "Experience with ",
+        "ListParagraph_1" : "React.js, React Native and TypeScript",
+        "ListParagraph_2" : "Node.js Java(Spring) and Databases",
+        "ListParagraph_3" : "Apache Solr and ELK(Elastic Search, Logstash and Kibana)"        
+    },
+
+    "timeLine" : {
+        "sectionText" : "Experienced Software Programmer with a demonstrated history of working in global companies",
+        "sectionText_1" : "Skilled in Commercial projects, several Java-script(Node.js, react.js) and Hybrid Mobile Skills in React Native.",
+        "sectionText_2" : "I am looking for a job overseas."
+    }
+}
