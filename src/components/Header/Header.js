@@ -3,7 +3,7 @@ import React, {useState} from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
 
-import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
+import { Container, Div1, Div2, Div3, Div4, NavLink, SocialIcons } from './HeaderStyles';
 
 import { useRouter } from 'next/router'
 
@@ -63,7 +63,7 @@ const Header = () =>  {
           <AiFillInstagram size="3rem"/>
         </SocialIcons>
        
-          <div onClick={() => handleLanguage()}> {language}</div>
+          <Div4 onClick={() => handleLanguage()}> {language}</Div4>
      
       </Div3>
     </Container>
