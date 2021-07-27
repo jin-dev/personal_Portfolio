@@ -47,7 +47,8 @@ export const Div3 = styled.div`
 
 export const Div4 = styled.div`
   display: flex;
-  border: 2px solid #ffff;
+  font-size: 17px;
+  border: 1px solid #ffff;
   border-radius: 4px;
 `
 

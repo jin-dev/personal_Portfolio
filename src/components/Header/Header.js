@@ -63,7 +63,11 @@ const Header = () =>  {
           <AiFillInstagram size="3rem"/>
         </SocialIcons>
        
-          <Div4 onClick={() => handleLanguage()}> {language}</Div4>
+          <Div4 onClick={() => handleLanguage()}> 
+          <SocialIcons>
+          {language}
+          
+          </SocialIcons></Div4>
      
       </Div3>
     </Container>

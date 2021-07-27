@@ -1,7 +1,26 @@
 {
     "home": {
         "welcome" : "제 포트폴리오에",
-        "welcome1" : "오신걸 환영합니다"
-        
+        "welcome_1" : "오신걸 환영합니다",
+        "description" : "저는 박진우라고 합니다. 이 포트폴리오는 보다 빠른 이해를 위해 Next.js로 구현한 웹페이지 입니다."
+    },
+
+    "technologies": {
+        "sectionText" : "지난 수년간 글로벌 기업들 안에서 성과를 만들어 냈습니다. 저는 풀스택 개발자입니다",    
+        "listTitle" : "Front-end",
+        "listTitle_1" : "Back-end",
+        "listTitle_2" : "Open Sources",
+        "ListParagraph" : "",
+        "ListParagraph_1" : "React.js, React Native and TypeScript",
+        "ListParagraph_2" : "Node.js Java(Spring) and Databases",
+        "ListParagraph_3" : "Apache Solr and ELK(Elastic Search, Logstash and Kibana)"        
+    },
+
+    "timeLine" : {
+        "sectionText" : "Experienced Software Programmer with a demonstrated history of working in global companies",
+        "sectionText_1" : "Skilled in Commercial projects, several Java-script(Node.js, react.js) and Hybrid Mobile Skills in React Native.",
+        "sectionText_2" : "I am looking for a job overseas."
     }
+
+
 }

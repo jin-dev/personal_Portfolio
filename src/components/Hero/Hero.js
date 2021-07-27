@@ -16,7 +16,7 @@ const t = useTranslations('home');
       <LeftSection>
         <SectionTitle main center>
           {t('welcome')} <br />
-          {t('welcome1')}
+          {t('welcome_1')}
         </SectionTitle>
         <SectionText>
         {t('description')}

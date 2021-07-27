@@ -10,8 +10,6 @@ import { Section } from '../styles/GlobalComponents';
 
 const Home = () => {
 
-  const t = useTranslations('home')
-
   return (
     <Layout>
       <Section grid>
@@ -19,7 +17,7 @@ const Home = () => {
         <BgAnimation />
       </Section>
       <Projects />
-      {t('welcome')}
+   
       <Technologies />
       <Timeline />
       <Acomplishments />
