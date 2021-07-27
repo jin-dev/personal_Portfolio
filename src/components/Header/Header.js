@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import React, {useState} from 'react';
+import React, {useState, useEffect} from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
 
@@ -9,9 +9,12 @@ import { useRouter } from 'next/router'
 
 const Header = () =>  {
 
+  useEffect(() => {
+    document.title = "Jin's Portfolio(Next.js)"
+ }, []);
 
   const router = useRouter();
-  const [language, setLanguage] = useState('Eng');
+  const [language, setLanguage] = useState('Kor');
   function handleLanguage () {
 
     if(language === 'Kor') {

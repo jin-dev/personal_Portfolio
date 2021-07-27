@@ -20,6 +20,12 @@
     "timeLine" : {
         "sectionText" : "Experienced Software Programmer with a demonstrated history of working in global companies",
         "sectionText_1" : "Skilled in Commercial projects, several Java-script(Node.js, react.js) and Hybrid Mobile Skills in React Native.",
-        "sectionText_2" : "I am looking for a job overseas."
+        "sectionText_2" : "I am looking for a job overseas.",
+        "timeLineData_1" : "Finished Bachelor in Computer Science at the University of Auckland",
+        "timeLineData_2" : "Worked at Qualcomm CDMA Korea",
+        "timeLineData_3" : "Worked at Nielsen Korea (Full-Stack)",
+        "timeLineData_4" : "Worked at OkEx Korea (Node.js React Native)",
+        "timeLineData_5" : "Work at U Fintech Hub (React.js) "
+
     }
 }

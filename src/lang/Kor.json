@@ -17,9 +17,15 @@
     },
 
     "timeLine" : {
-        "sectionText" : "Experienced Software Programmer with a demonstrated history of working in global companies",
-        "sectionText_1" : "Skilled in Commercial projects, several Java-script(Node.js, react.js) and Hybrid Mobile Skills in React Native.",
-        "sectionText_2" : "I am looking for a job overseas."
+        "sectionText" : "다국적 기업에서 근무하며 풀스택 관련 업무를 통해 성과를 냈습니다",
+        "sectionText_1" : "Java Spring, jQuery 기반을 시작으로 Node.js, React.js 그리고 React Native 관련 업무에 성과를 내며 성취하였습니다.",
+        "sectionText_2" : "이제 해외 근무를 목표로 도전하고 싶습니다.",
+        "timeLineData_1" : "뉴질랜드 The University of Auckland 에서 컴퓨터공학 졸업",
+        "timeLineData_2" : "퀄컴 CDMA Korea 근무",
+        "timeLineData_3" : "닐슨 Korea 에서 Full-Stack으로 근무",
+        "timeLineData_4" : "OKEx Korea 에서 Node.js, React Native 담당",
+        "timeLineData_5" : "핀테크 기업 U Fintech Hub 에서 Front-End로 근무중"
+
     }
 
 

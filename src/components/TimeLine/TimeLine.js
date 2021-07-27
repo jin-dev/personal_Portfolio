@@ -2,18 +2,29 @@ import React, { useState, useRef, useEffect } from 'react';
 
 import { CarouselButton, CarouselButtonDot, CarouselButtons, CarouselContainer, CarouselItem, CarouselItemImg, CarouselItemText, CarouselItemTitle, CarouselMobileScrollNode } from './TimeLineStyles';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import { TimeLineData } from '../../constants/constants';
+//import { TimeLineData } from '../../constants/constants';
 import { useTranslations } from 'next-intl';
 
 
 
-const TOTAL_CAROUSEL_COUNT = TimeLineData.length;
+const TOTAL_CAROUSEL_COUNT = 5;
 
 const Timeline = () => {
 
   const t = useTranslations('timeLine');
   const [activeItem, setActiveItem] = useState(0);
   const carouselRef = useRef();
+
+
+  const TimeLineData = [
+    { year: 2011, text: t('timeLineData_1'), },
+    { year: 2012, text: t('timeLineData_2'), },
+    { year: 2014, text: t('timeLineData_3'),  },
+    { year: 2018, text: t('timeLineData_4'),  },
+    { year: 2021, text: t('timeLineData_5'),  },
+  ];
+  
+
 
   const scroll = (node, left) => {
     return node.scrollTo({ left, behavior: 'smooth' });
