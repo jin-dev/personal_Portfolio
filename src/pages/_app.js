@@ -5,7 +5,7 @@ export default function App({ Component, pageProps }) {
     <>
 
       <Theme>
-        <NextIntlProvider messages={pageProps.messages}>
+      <NextIntlProvider messages={pageProps.messages}>
         <Component {...pageProps} />
         </NextIntlProvider>
       </Theme>
