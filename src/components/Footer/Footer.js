@@ -9,6 +9,7 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
+      
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:jpar303@gmail.com">
             jpar303@gmail.com
@@ -17,7 +18,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>Looking for a new challenge</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/jin-dev/">
