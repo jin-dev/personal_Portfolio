@@ -6,10 +6,10 @@ export const projects = [
   {
     title: 'Admin Dashboard',
     description: "developed React.js Admin Dashboard based on CoreUi Template, It provides convenient shortcuts for common management tasks. The dashboard is mostly based on React Hooks and global state managemtn with Redux Tool Kit. ",
-      image: '/images/coreUI-Dashboard.png',
+      image: '/images/Admin-Dashboard.png',
       tags: ['React', 'Type-Script', 'Redux Tool Kit'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/jin-dev/admin_Dashboard',
+   
     id: 0,
   },
   {
@@ -18,7 +18,7 @@ export const projects = [
     image: '/images/currency-Platform.png',
     tags: ['React-Native'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    
     id: 1,
   },
   {
@@ -27,7 +27,7 @@ export const projects = [
     image: '/images/nextJs-landing.png',
     tags: ['Next.js', 'Styled-component'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/jin-dev/next_js_skeleton.git',
     id: 2,
   },
   {
@@ -36,7 +36,7 @@ export const projects = [
     image: '/images/nielsen-Dashboard.png',
     tags: ['Java-Spring', 'Apache Solr', 'Open-Source Analyzer'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+
     id: 3,
   },
 ];
