@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "encoding": "^0.1.13",
     "next": "12.1.0",
     "next-intl": "^2.4.0",
     "react": "17.0.2",
