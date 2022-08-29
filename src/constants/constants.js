@@ -27,7 +27,7 @@ export const projects = [
     description:
       'Sustaining a blockChain Trading Platform app based on React Native. applied presentational & container design pattern.',
     image: '/images/currency-Platform.png',
-    tags: ['React-Native'],
+    tags: ['React native'],
     source: 'https://google.com',
 
     id: 2,
