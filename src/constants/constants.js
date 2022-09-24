@@ -4,7 +4,7 @@ export const projects = [
   {
     title: 'SNS Project(Clone)',
     description:
-      'Self-development clone project. SSR applied with Next.js, global-state management for zustand. Moreover, there is OAuth for google login and API data for sanity',
+      'Self-development clone project. SSR applied with Next.js, global-state management for zustand. Moreover, there are OAuth for google login and API data for sanity',
     image: '/images/SNS_clone_project.png',
     tags: ['Next.js', 'Type-Script', 'zustand', 'tailwindcss', 'sanity'],
     source: 'https://next-js-tik-tok-project.vercel.app/',
