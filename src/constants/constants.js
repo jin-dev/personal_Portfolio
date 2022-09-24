@@ -4,7 +4,7 @@ export const projects = [
   {
     title: 'SNS Project(Clone)',
     description:
-      'developed React.js Admin Dashboard based on CoreUi Template, It provides convenient shortcuts for common management tasks. The dashboard is mostly based on React Hooks and global state managemtn with Redux Tool Kit. ',
+      'Self-development clone project. SSR applied with Next.js, global-state management for zustand. Moreover, there is OAuth for google login and API data for sanity',
     image: '/images/SNS_clone_project.png',
     tags: ['Next.js', 'Type-Script', 'zustand', 'tailwindcss', 'sanity'],
     source: 'https://next-js-tik-tok-project.vercel.app/',
