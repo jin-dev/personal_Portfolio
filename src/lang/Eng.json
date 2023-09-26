@@ -1,13 +1,13 @@
 {
     "home": {
-        "welcome" : "Welcome To ",
+        "welcome" : "Welcome to ",
         "welcome_1" : "Jin's Portfolio",    
-        "description" : "My name is Jin, This is a webpage based on Next.js and the purpose of this site is to support you understand my career."
+        "description" : "My name is Jin, and this webpage is based on Next.js. The purpose of this site is to help you understand my career."
     
     },
 
     "technologies": {
-        "sectionText" : "I've worked with a range a technologies in the web development world. From Back-end to Front-end",    
+        "sectionText" : "I've worked with a range technologies in the web development world. From Back-end to Front-end",    
         "listTitle" : "Front-end",
         "listTitle_1" : "Back-end",
         "listTitle_2" : "Open Sources",
@@ -18,8 +18,8 @@
     },
 
     "timeLine" : {
-        "sectionText" : "Experienced Software Programmer with a demonstrated history of working in global companies",
-        "sectionText_1" : "Skilled in Commercial projects, several Java-script(Node.js, react.js and Vanilla.js) and Hybrid Mobile Skills in React Native.",
+        "sectionText" : "Experienced software programmer with a demonstrated history of working for global companies",
+        "sectionText_1" : "Skilled in commercial projects and have expertise in several Java-script including Node.js, React.js and Vanilla.js. Additionally, I possess hybrid mobile development skills in React Native.",
         "sectionText_2" : "",
         "timeLineData_1" : "Finished Bachelor in Computer Science at the University of Auckland",
         "timeLineData_2" : "Worked at Qualcomm CDMA Korea",
