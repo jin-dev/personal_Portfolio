@@ -2,6 +2,15 @@ import { useTranslations } from 'next-intl';
 
 export const projects = [
   {
+    title: 'Open-class booking system',
+    description: `It is developed for open class reservations. It consists of Next.js(SSR), Zustand for state management, NextAuth for authentication, Firebase for DB functionality. It operates in the KR market and the current Github repo is a proto version. The production version is operated on the company's Google Cloud`,
+    image: '/images/open-class-booking-system.png',
+    tags: ['Next.js', 'Type-Script', 'zustand', 'next-auth', 'firebase'],
+    source: 'https://github.com/jin-dev/devPlatform',
+
+    id: 0,
+  },
+  {
     title: 'SNS Project(Clone)',
     description:
       'Self-development clone project: Implementing Server-Side Rendering(SSR) with Next.js and global-state management using zustand. Additionally, incorporating OAuth for Google login and retrieving API data from Sanity',

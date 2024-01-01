@@ -33,7 +33,7 @@ const Timeline = () => {
     { year: 2014, text: t('timeLineData_3') },
     { year: 2018, text: t('timeLineData_4') },
     { year: 2021, text: t('timeLineData_5') },
-    { year: 2022, text: t('timeLineData_6') },
+    { year: 2023, text: t('timeLineData_6') },
   ];
 
   const scroll = (node, left) => {
