@@ -4,7 +4,7 @@ export const projects = [
   {
     title: 'Open-class booking system',
     description: `It is developed for open class reservations. It consists of Next.js(SSR), Zustand for state management, NextAuth for authentication, Firebase for DB functionality. It operates in the KR market and the current Github repo is a proto version. The final version is operated on the company's Google Cloud`,
-    image: '/images/open-class-booking-system.png',
+    image: '/images/open-class-booking-system-2.png',
     tags: ['Next.js', 'Type-Script', 'zustand', 'next-auth', 'firebase'],
     source: 'https://github.com/jin-dev/devPlatform',
 
